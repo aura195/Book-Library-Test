@@ -1,0 +1,11 @@
+-r base.txt
+
+# Testing
+pytest==7.4.0
+pytest-django==4.5.2
+factory-boy==3.3.0
+coverage==7.3.0
+pytest-cov==4.1.0
+
+# Mocking
+responses==0.23.3
